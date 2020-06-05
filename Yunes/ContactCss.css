@@ -38,3 +38,30 @@ body{
 .contact-form button:focus{
     box-shadow:none;
 }
+body-nav {
+    background-color: #E8E8E8;
+    margin: auto;
+}
+
+nav {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-custom {
+    background-color: #FFD500;
+    padding-top: 15PX;
+    padding-bottom: 15px;
+}
+
+.btn-custom {
+    background-color: #5B7151;
+    color: #E8E8E8;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: #5B7151;
+    font-family: 'Roboto Mono', monospace;
+    color: #fff;
+    padding: 10px;
+}
